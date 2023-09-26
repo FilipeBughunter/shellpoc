@@ -1,3 +1,3 @@
 <?php
-	echo "O php está rodando!"
+	echo "O php está rodando!?"
 ?>
